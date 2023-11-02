@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1698604470 source:c:\users\fariha binte jashim\onedrive\desktop\computer graphics\test project 1\main.c
+	<windows.h>
+	<mmsystem.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+
+1698604472 source:c:\test project 1\main.c
+	<windows.h>
+	<mmsystem.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+
